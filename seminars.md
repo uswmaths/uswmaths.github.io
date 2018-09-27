@@ -14,5 +14,10 @@ The seminar timetable for Autumn 2018 is below. All seminars are at 2pm on Frida
 
 | Date | Room | Speaker | Title |
 |:----:|:----:|:-------:|--------|
-| 29 September 2018 | H029 | Kirstin Strokorb | Extreme events in Markov Chains|
+| 28 September 2018 | H029 | Kirstin Strokorb | <a href = "https://uswmaths.github.io/seminar-strokorb">Extreme events in Markov Chains</a>|
+| 12 October 2018 | H029 |    |     |
+| 26 October 2018 | H029 |    |     |
+| 9 November 2018 | H029 |    |     |
+| 23 November 2018 | H029 |    |     |
+| 7 December 2018 | H029 |    |     |
 
