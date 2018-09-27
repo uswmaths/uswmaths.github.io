@@ -10,8 +10,6 @@ layout: page
 <img src="pp3.jpg">
 </p>
 
-![Projective plane of order 3](pp3.jpg)
-
 ----
 
 ## Next seminar: Extreme events in Markov Chains
