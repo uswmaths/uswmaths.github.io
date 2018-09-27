@@ -7,8 +7,10 @@ layout: page
 ---
 
 <p align="center">
-![Projective plane of order 3](pp3.jpg)
+<img src="pp3.jpg">
 </p>
+
+![Projective plane of order 3](pp3.jpg)
 
 ----
 
