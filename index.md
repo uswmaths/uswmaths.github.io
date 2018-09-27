@@ -1,14 +1,15 @@
 ---
 id: 4
-title: Next seminar: Extreme events in Markov Chains by Kirstin Strokorb
+title: 
 date: 2014-03-11T19:18:39+00:00
 author: Nick Gill
 layout: page
 ---
 
 
+## Next seminar: Extreme events in Markov Chains by Kirstin Strokorb
 
-Details of our first seminar of the academic year are below. The seminar is in the area of *Probability and Statistics*, and all are welcome! For the full list of seminars this term click on the [seminars.md][link].
+Details of our first seminar of the academic year are below. The seminar is in the area of *Probability and Statistics*, and all are welcome! For the full list of seminars this term click <a href = "seminars.md">here</a>.
 
 ---
 
