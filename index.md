@@ -6,7 +6,7 @@ author: Nick Gill
 layout: page
 ---
 
-<img src = "pp3.jpg" align=center>
+![Projective plane of order 3](pp3.jpg)
 
 
 ----
