@@ -1,5 +1,5 @@
 ---
-title: 'Extreme events in Markov Chains by Kirstin Strokorb'
+title: 'Seminar: Extreme events in Markov Chains'
 date: 2018-09-18
 author: Nick Gill
 layout: post

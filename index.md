@@ -1,15 +1,15 @@
 ---
 id: 4
-title: 
+title: USW Mathematics Department
 date: 2014-03-11T19:18:39+00:00
 author: Nick Gill
 layout: page
 ---
 
 
-## Next seminar: Extreme events in Markov Chains by Kirstin Strokorb
+## Next seminar: Extreme events in Markov Chains
 
-Details of our first seminar of the academic year are below. The seminar is in the area of *Probability and Statistics*, and all are welcome! For the full list of seminars this term click <a href = "seminars.md">here</a>.
+Details of our first seminar of the academic year are below. The seminar is in the area of *Probability and Statistics*, and all are welcome! For the full list of seminars this term click <a href = "seminars">here</a>. A list of past seminars is <a href = "past_seminars">here</a>.
 
 ---
 
