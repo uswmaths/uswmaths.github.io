@@ -21,3 +21,6 @@ The seminar timetable for Autumn 2018 is below. All seminars are at 2pm on Frida
 | 23 November 2018 | H029 |    |     |
 | 7 December 2018 | H029 |    |     |
 
+
+ A list of past seminars is <a href = "past_seminars">here</a>.
+
