@@ -1,14 +1,10 @@
 ---
-title: 'Seminar 29-10-2018: Extreme events in Markov Chains by Kirstin Strokorb'
+title: 'Extreme events in Markov Chains by Kirstin Strokorb'
 date: 2018-09-18
 author: Nick Gill
 layout: post
 categories:
   - seminar
----
-
-Details of our first seminar of the academic year are below. The seminar is in the area of *Probability and Statistics*, and all are welcome!
-
 ---
 
 **Time**: 2pm, Friday 28 September 2018
