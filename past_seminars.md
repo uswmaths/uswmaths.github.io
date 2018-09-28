@@ -12,8 +12,10 @@ Spring 2018
 
 | Date | Room | Speaker | Title |
 |:----:|:----:|:-------:|--------|
-|19 January 2018| G507 |Jeff Giansiracusa| |
-|2 February 2018| G507 |James Shaw| |
+|19 January 2018| G507 |Jeff Giansiracusa|Tropical geometry and algebra over idempotent semirings|
+|2 February 2018| G507 |James Shaw|Finite volume transport for atmospheric 
+ows
+over steep terrain using arbitrary meshes|
 |28 February 2018| G507 |James Kent| |
 |9 March 2018| G507|Ieuan Griffiths and Eduard Incze| |
 |21 March 2018| G507 |Vicki Brown| |
@@ -24,12 +26,12 @@ Autumn 2017
 
 | Date | Room | Speaker | Title |
 |:----:|:----:|:-------:|--------|
-|  | G507 |  | |
-| | G507 | | |
-| | G507 | | |
-| | G507| | |
-| | G507 | | |
-| | G507 | | |
+|11 October 2017| G507 |Bertie Muller| |
+|27 October 2017| G507 |Jonathan Gillard| |
+|8 October 2017| G507 |Grahame Erskine|Algebraic methods in the degree-diameter problem|
+|17 November 2017| G507|Eugenio Gianelli|Restriction of characters of symmetric groups|
+|29 November 2017| G507 |Nick Gill|Graphs, surfaces and colourings|
+|8 December 2017| G507 |Philip Trevelyan|An introduction to $A+B\to C$|
 
 ---
 
@@ -37,11 +39,25 @@ Spring 2017
 
 | Date | Room | Speaker | Title |
 |:----:|:----:|:-------:|--------|
-|  | G507 |  | |
-| | G507 | | |
-| | G507 | | |
-| | G507| | |
-| | G507 | | |
-| | G507 | | |
+|20 January 2017| G505 |Simon Peacock| |
+|3 February 2017| G505 |James Kent| |
+|17 February 2017| G505 |Ian Short| |
+|8 March 2017| G505|Bianca Loda, Anna Skelt and Rebecca Peters| |
+|17 March 2017| G505 |Bridget Webb|Some new homogeneous and set-homogeneous
+Steiner triple systems|
+|29 March 2017| G505 |Graeme Boswell|Optimizing sporting performance:
+pacing strategies in cycling time
+trials|
 
+---
+
+Autumn 2016
+
+| Date | Room | Speaker | Title |
+|:----:|:----:|:-------:|--------|
+|5 October 2016| G508 | Nick Gill | |
+|14 October 2016| G508 |Zoe Ward| |
+|26 October 2016| G508|Roger Behrend| |
+|11 November 2016| G508|Jason Semeraro| |
+|9 December 2016| G508 |Emily Walsh| |
 
