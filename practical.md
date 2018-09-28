@@ -8,7 +8,7 @@ layout: page
 
 ## Location
 
-If you are coming to the USW maths department, take the train to TREFOREST train station. Don't get off at TREFOREST ESTATE as this is a different station. As you pull into the station you will see the university on your left -- it is a 5 minute walk from the station.
+If you are coming to the USW maths department, take the train to TREFOREST train station. Don't get off at TREFOREST ESTATE as this is a different station. As you pull into Treforest station you will see the university on your left -- it is a 5 minute walk from the station.
 
 The maths department is in J-Block which is at the rear of the campus. A map of the campus is <a href = "https://www.southwales.ac.uk/documents/33/USW_A4_Campus_Map_TREF_NEW.PDF">here</a>, and J-Block (also called Johnstown) is marked as Building 9. We are on the 4th floor.
 
