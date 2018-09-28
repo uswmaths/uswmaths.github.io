@@ -13,8 +13,7 @@ Spring 2018
 | Date | Room | Speaker | Title |
 |:----:|:----:|:-------:|--------|
 |19 January 2018| G507 |Jeff Giansiracusa|Tropical geometry and algebra over idempotent semirings|
-|2 February 2018| G507 |James Shaw|Finite volume transport for atmospheric 
-flows over steep terrain using arbitrary meshes|
+|2 February 2018| G507 |James Shaw|Finite volume transport for atmospheric flows over steep terrain using arbitrary meshes|
 |28 February 2018| G507 |James Kent|To Stagger, Or Not To Stagger|
 |9 March 2018| G507|Ieuan Griffiths|Data Analytics at TATA Steel|
 |21 March 2018| G507 |Vicki Brown|Modelling Allee effects in a transgenic mosquito population during range expansion|
@@ -39,8 +38,7 @@ Spring 2017
 | Date | Room | Speaker | Title |
 |:----:|:----:|:-------:|--------|
 |20 January 2017| G505 |Simon Peacock|Quivers and representations|
-|3 February 2017| G505 |James Kent|Assessing the linearization of tracer
-transport schemes in numerical models of the atmosphere|
+|3 February 2017| G505 |James Kent|Assessing the linearization of tracer transport schemes in numerical models of the atmosphere|
 |17 February 2017| G505 |Ian Short|Coxeter's frieze patterns, the modular group, and Farey graphs|
 |8 March 2017| G505|Bianca Loda, Anna Skelt and Rebecca Peters|On Cherlin's Conjecture -- Big Data Analytics of Historical Caster Data -- Water Retention on Magic Squares|
 |17 March 2017| G505 |Bridget Webb|Some new homogeneous and set-homogeneous
@@ -55,9 +53,10 @@ Autumn 2016
 
 | Date | Room | Speaker | Title |
 |:----:|:----:|:-------:|--------|
-|5 October 2016| G508 | Nick Gill | |
-|14 October 2016| G508 |Zoe Ward| |
-|26 October 2016| G508|Roger Behrend| |
-|11 November 2016| G508|Jason Semeraro| |
-|9 December 2016| G508 |Emily Walsh| |
+|5 October 2016| G508 | Nick Gill |An introduction to the classification of finite simple groups|
+|14 October 2016| G508 |Zoe Ward|The impact of harm reduction strategies and treatment on the Hepatitis C epidemic in UK people who inject drugs|
+|26 October 2016| G508|Roger Behrend|The combinatorics of alternating sign
+matrices|
+|11 November 2016| G508|Jason Semeraro|Group theory, Algebra and Topology mod p.|
+|9 December 2016| G508 |Emily Walsh|A Moving Mesh Method for Numerical Weather Prediction|
 
