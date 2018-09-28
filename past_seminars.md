@@ -60,3 +60,17 @@ matrices|
 |11 November 2016| G508|Jason Semeraro|Group theory, Algebra and Topology mod p.|
 |9 December 2016| G508 |Emily Walsh|A Moving Mesh Method for Numerical Weather Prediction|
 
+---
+
+Spring 2016
+
+| Date | Room | Speaker | Title |
+|:----:|:----:|:-------:|--------|
+|17 February 2016|G508 |Paul Kirk|Biological modelling: How to cope with always being wrong| 
+|4 March 2016|G508 |Jenny Morgan|System Dynamics applied to Healthcare systems| 
+|20 April 2016|G508 |Neil Gillespie|Neighbour Transitive Codes in Hamming Graphs| 
+
+---
+
+Earlier seminars are lost in the mysts of time...
+
