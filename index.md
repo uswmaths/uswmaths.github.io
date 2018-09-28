@@ -7,7 +7,7 @@ layout: page
 ---
 
 <p align="center">
-<img src="trev.jpg">
+<img src="trev.jpg" alt="Images of buoyancy and stability for two missible solutions">
 </p>
 
 ----
