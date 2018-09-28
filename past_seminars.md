@@ -14,11 +14,10 @@ Spring 2018
 |:----:|:----:|:-------:|--------|
 |19 January 2018| G507 |Jeff Giansiracusa|Tropical geometry and algebra over idempotent semirings|
 |2 February 2018| G507 |James Shaw|Finite volume transport for atmospheric 
-ows
-over steep terrain using arbitrary meshes|
-|28 February 2018| G507 |James Kent| |
-|9 March 2018| G507|Ieuan Griffiths and Eduard Incze| |
-|21 March 2018| G507 |Vicki Brown| |
+flows over steep terrain using arbitrary meshes|
+|28 February 2018| G507 |James Kent|To Stagger, Or Not To Stagger|
+|9 March 2018| G507|Ieuan Griffiths|Data Analytics at TATA Steel|
+|21 March 2018| G507 |Vicki Brown|Modelling Allee effects in a transgenic mosquito population during range expansion|
 
 ---
 
@@ -39,10 +38,11 @@ Spring 2017
 
 | Date | Room | Speaker | Title |
 |:----:|:----:|:-------:|--------|
-|20 January 2017| G505 |Simon Peacock| |
-|3 February 2017| G505 |James Kent| |
-|17 February 2017| G505 |Ian Short| |
-|8 March 2017| G505|Bianca Loda, Anna Skelt and Rebecca Peters| |
+|20 January 2017| G505 |Simon Peacock|Quivers and representations|
+|3 February 2017| G505 |James Kent|Assessing the linearization of tracer
+transport schemes in numerical models of the atmosphere|
+|17 February 2017| G505 |Ian Short|Coxeter's frieze patterns, the modular group, and Farey graphs|
+|8 March 2017| G505|Bianca Loda, Anna Skelt and Rebecca Peters|On Cherlin's Conjecture -- Big Data Analytics of Historical Caster Data -- Water Retention on Magic Squares|
 |17 March 2017| G505 |Bridget Webb|Some new homogeneous and set-homogeneous
 Steiner triple systems|
 |29 March 2017| G505 |Graeme Boswell|Optimizing sporting performance:
