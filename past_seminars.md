@@ -8,7 +8,7 @@ layout: page
 
 ---
 
-##Spring 2018
+## Spring 2018
 
 | Date | Room | Speaker | Title |
 |:----:|:----:|:-------:|--------|
@@ -20,7 +20,7 @@ layout: page
 
 ---
 
-##Autumn 2017 
+## Autumn 2017 
 
 | Date | Room | Speaker | Title |
 |:----:|:----:|:-------:|--------|
@@ -33,7 +33,7 @@ layout: page
 
 ---
 
-##Spring 2017
+##S pring 2017
 
 | Date | Room | Speaker | Title |
 |:----:|:----:|:-------:|--------|
@@ -46,7 +46,7 @@ layout: page
 
 ---
 
-##Autumn 2016
+## Autumn 2016
 
 | Date | Room | Speaker | Title |
 |:----:|:----:|:-------:|--------|
@@ -58,7 +58,7 @@ layout: page
 
 ---
 
-##Spring 2016
+## Spring 2016
 
 | Date | Room | Speaker | Title |
 |:----:|:----:|:-------:|--------|
