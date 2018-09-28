@@ -1,24 +1,47 @@
 ---
 id: 4
-title: News and events...
+title: Past seminars
 date: 2014-03-11T19:18:39+00:00
 author: Nick Gill
 layout: page
 ---
 
+---
 
+Spring 2018
+
+| Date | Room | Speaker | Title |
+|:----:|:----:|:-------:|--------|
+|19 January 2018| G507 |Jeff Giansiracusa| |
+|2 February 2018| G507 |James Shaw| |
+|28 February 2018| G507 |James Kent| |
+|9 March 2018| G507|Ieuan Griffiths and Eduard Incze| |
+|21 March 2018| G507 |Vicki Brown| |
 
 ---
 
-{% for post in site.posts %}
+Autumn 2017 
 
-[{{ post.title }}]({{ post.url }})
-
-Posted on {{ post.date | date: "%b %-d, %Y" }}
+| Date | Room | Speaker | Title |
+|:----:|:----:|:-------:|--------|
+|  | G507 |  | |
+| | G507 | | |
+| | G507 | | |
+| | G507| | |
+| | G507 | | |
+| | G507 | | |
 
 ---
 
-{% endfor %}
+Spring 2017
 
-subscribe via [rss]({{ site.baseurl }}/feed.xml)
+| Date | Room | Speaker | Title |
+|:----:|:----:|:-------:|--------|
+|  | G507 |  | |
+| | G507 | | |
+| | G507 | | |
+| | G507| | |
+| | G507 | | |
+| | G507 | | |
+
 

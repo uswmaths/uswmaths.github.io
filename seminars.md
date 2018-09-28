@@ -15,11 +15,11 @@ The seminar timetable for Autumn 2018 is below. All seminars are at 2pm on Frida
 | Date | Room | Speaker | Title |
 |:----:|:----:|:-------:|--------|
 | 28 September 2018 | H029 | Kirstin Strokorb | <a href = "https://uswmaths.github.io/seminar-strokorb">Extreme events in Markov Chains</a>|
-| 12 October 2018 | H029 |    |     |
-| 26 October 2018 | H029 |    |     |
-| 9 November 2018 | H029 |    |     |
-| 23 November 2018 | H029 |    |     |
-| 7 December 2018 | H029 |    |     |
+| 12 October 2018 | H029 |Lizzie Williams and Ben Carini|<a href = "">TBC</a>     |
+| 26 October 2018 | H029 |Andrew Woolley|<a href = "">Patterns, cellular movement and brain tumours</a>|
+| 9 November 2018 | J325|Andrew Princep| <a href = "">TBC</a>|
+| 23 November 2018 | J325 |Melina Freitag| <a href = "">TBC</a>|
+| 7 December 2018 | J325 |Steffi Zegowitz| <a href = "">TBC</a>|
 
 
  A list of past seminars is <a href = "past_seminars">here</a>.
