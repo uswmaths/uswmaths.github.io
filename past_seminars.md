@@ -25,8 +25,8 @@ Autumn 2017
 
 | Date | Room | Speaker | Title |
 |:----:|:----:|:-------:|--------|
-|11 October 2017| G507 |Bertie Muller| |
-|27 October 2017| G507 |Jonathan Gillard| |
+|11 October 2017| G507 |Bertie Muller|The (Un-)Decidability of Model-Checking for Resource-Bounded Logics... and other recent research |
+|27 October 2017| G507 |Jonathan Gillard|The National Student Survey and the Teaching Excellence Framework: A Statistical Analysis|
 |8 October 2017| G507 |Grahame Erskine|Algebraic methods in the degree-diameter problem|
 |17 November 2017| G507|Eugenio Gianelli|Restriction of characters of symmetric groups|
 |29 November 2017| G507 |Nick Gill|Graphs, surfaces and colourings|
