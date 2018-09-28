@@ -33,7 +33,7 @@ layout: page
 
 ---
 
-##S pring 2017
+## Spring 2017
 
 | Date | Room | Speaker | Title |
 |:----:|:----:|:-------:|--------|

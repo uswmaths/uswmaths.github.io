@@ -15,7 +15,7 @@ The maths department is in J-Block which is at the rear of the campus. A map of 
 To get in touch with members of faculty, go to our <a href = "people">People page</a>.
 
 
-### Seminars
+## Seminars
 
 We normally go for lunch at 12:45pm before seminars. The seminar happens at 2pm, and then we adjourn to the Otley pub for drinks at 4pm. 
 
