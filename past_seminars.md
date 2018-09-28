@@ -68,5 +68,5 @@ layout: page
 
 ---
 
-Earlier seminars are lost in the mysts of time...
+Earlier seminars are lost in the mysts of tyme...
 
