@@ -7,7 +7,7 @@ layout: page
 ---
 
 <p align="center">
-<img src="pp3.jpg">
+<img src="trev.jpg">
 </p>
 
 ----
