@@ -8,7 +8,7 @@ layout: page
 
 ---
 
-Spring 2018
+##Spring 2018
 
 | Date | Room | Speaker | Title |
 |:----:|:----:|:-------:|--------|
@@ -20,7 +20,7 @@ Spring 2018
 
 ---
 
-Autumn 2017 
+##Autumn 2017 
 
 | Date | Room | Speaker | Title |
 |:----:|:----:|:-------:|--------|
@@ -33,7 +33,7 @@ Autumn 2017
 
 ---
 
-Spring 2017
+##Spring 2017
 
 | Date | Room | Speaker | Title |
 |:----:|:----:|:-------:|--------|
@@ -41,28 +41,24 @@ Spring 2017
 |3 February 2017| G505 |James Kent|Assessing the linearization of tracer transport schemes in numerical models of the atmosphere|
 |17 February 2017| G505 |Ian Short|Coxeter's frieze patterns, the modular group, and Farey graphs|
 |8 March 2017| G505|Bianca Loda, Anna Skelt and Rebecca Peters|On Cherlin's Conjecture -- Big Data Analytics of Historical Caster Data -- Water Retention on Magic Squares|
-|17 March 2017| G505 |Bridget Webb|Some new homogeneous and set-homogeneous
-Steiner triple systems|
-|29 March 2017| G505 |Graeme Boswell|Optimizing sporting performance:
-pacing strategies in cycling time
-trials|
+|17 March 2017| G505 |Bridget Webb|Some new homogeneous and set-homogeneous Steiner triple systems|
+|29 March 2017| G505 |Graeme Boswell|Optimizing sporting performance: pacing strategies in cycling time trials|
 
 ---
 
-Autumn 2016
+##Autumn 2016
 
 | Date | Room | Speaker | Title |
 |:----:|:----:|:-------:|--------|
 |5 October 2016| G508 | Nick Gill |An introduction to the classification of finite simple groups|
 |14 October 2016| G508 |Zoe Ward|The impact of harm reduction strategies and treatment on the Hepatitis C epidemic in UK people who inject drugs|
-|26 October 2016| G508|Roger Behrend|The combinatorics of alternating sign
-matrices|
+|26 October 2016| G508|Roger Behrend|The combinatorics of alternating sign matrices|
 |11 November 2016| G508|Jason Semeraro|Group theory, Algebra and Topology mod p.|
 |9 December 2016| G508 |Emily Walsh|A Moving Mesh Method for Numerical Weather Prediction|
 
 ---
 
-Spring 2016
+##Spring 2016
 
 | Date | Room | Speaker | Title |
 |:----:|:----:|:-------:|--------|
