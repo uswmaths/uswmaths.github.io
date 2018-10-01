@@ -34,8 +34,8 @@ exclude:
 # Sam config
 excerpt_separator: <!--more-->
 permalink: /:title
-header_pages:
-  - seminars.md
-  - people.md
-  - practical.md
+#header_pages:
+#  - seminars.md
+#  - people.md
+#  - practical.md
 
