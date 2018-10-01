@@ -36,5 +36,3 @@ excerpt_separator: <!--more-->
 permalink: /:title
 
 header_pages:
-  - practical.md
-
